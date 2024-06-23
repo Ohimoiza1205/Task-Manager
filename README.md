@@ -53,3 +53,8 @@ Read [Google SMTP common issues](https://help.dreamhost.com/hc/en-us/articles/11
 - Now your frontend will be hosted on http://localhost:8001 ,open this link in browser.(only for DEV)
 
 You can connect to me at [Linkedin](https://www.linkedin.com/in/ohinoyi-moiza/)
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
