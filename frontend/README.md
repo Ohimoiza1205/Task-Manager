@@ -1,4 +1,4 @@
-# TMS - Frontend
+# Task Manager- Frontend
 
 ## **[Frontend Documentation](https://Ohimoiza1205.github.io/documentation/)**
 This project was generated with version 7.3.0.
